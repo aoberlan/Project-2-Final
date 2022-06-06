@@ -1,0 +1,101 @@
+Description,Scientific Name,Acession,Acc. Len,Max Score,E value,Query Cover (%),Per. ident,Total Score
+"Chain C, Histone H2A type 1 [Xenopus laevis]",Xenopus laevis,6LTJ_C,130,197,5.00E-66,0.90,94.92,197
+Human nucleosome core particle with gammaH2A.X variant [Homo sapiens],Homo sapiens,6K1I_C,146,197,6.00E-66,0.90,96.61,197
+Human nucleosome core particle with H2A.X S139E variant [Homo sapiens],Homo sapiens,6K1K_C,146,197,8.00E-66,0.90,96.61,197
+"Chain E, Histone H2A [Homo sapiens]",Homo sapiens,7TRF_E,129,194,6.00E-65,0.90,94.92,194
+Crystal structure of human nucleosome containing H2A.J [Homo sapiens],Homo sapiens,6KVD_C,132,194,6.00E-65,0.90,94.92,194
+X-ray Structure Of The Nucleosome Core Particle At 2.5 A Resolution [Gallus gallus],Gallus gallus,1EQZ_A,129,194,7.00E-65,0.90,95.76,194
+"Nucleosome Core Particle Containing (ETA6-P-CYMENE)-(1, 2-ETHYLENEDIAMINE)-RUTHENIUM [Xenopus laevis]",Xenopus laevis,4KGC_C,130,194,7.00E-65,0.90,94.07,194
+Structure of the chromatin remodelling enzyme Chd1 bound to a ubiquitinylated nucleosome [Xenopus laevis],Xenopus laevis,6FTX_C,130,194,9.00E-65,0.90,94.07,194
+"Chain K, Histone H2A type 1 [Xenopus laevis]",Xenopus laevis,6WKR_K,130,193,1.00E-64,0.90,94.07,193
+Human-D02 Nucleosome Core Particle with biotin-streptavidin label [Homo sapiens],Homo sapiens,6R0C_C,130,193,1.00E-64,0.90,94.92,193
+Class 1 : CENP-A nucleosome [Homo sapiens],Homo sapiens,6SE0_G,130,193,1.00E-64,0.90,94.92,193
+Cryo-EM structure of human kinetochore protein CENP-N with the centromeric nucleosome containing CENP-A [Homo sapiens],Homo sapiens,6C0W_C,130,193,2.00E-64,0.90,95.76,193
+"Crystal structure of nucleosome core particle consisting of human testis-specific histone variants, Th2A and Th2B [Homo sapiens]",Homo sapiens,5GSU_C,130,192,3.00E-64,0.90,93.16,192
+"Chain C, Histone H2A type 1-B/E [Homo sapiens]",Homo sapiens,7COW_C,132,192,4.00E-64,0.90,94.07,192
+"The nucleosome containing a testis-specific histone variant, human H3T [Homo sapiens]",Homo sapiens,3A6N_C,133,192,4.00E-64,0.90,94.07,192
+"Structural model of 53BP1 bound to a ubiquitylated and methylated nucleosome, at 4.5 A resolution [Homo sapiens]",Homo sapiens,5KGF_C,130,192,4.00E-64,0.90,94.07,192
+Crystal structure of human nucleosome core particle [Homo sapiens],Homo sapiens,2CV5_C,130,192,4.00E-64,0.90,94.07,192
+"Histone Octamer (Chicken), Chromosomal Protein [Gallus gallus]",Gallus gallus,2HIO_A,128,191,6.00E-64,0.90,95.73,191
+Structure of a human nucleosome at 3.2 A resolution [Homo sapiens],Homo sapiens,6T79_C,151,192,7.00E-64,0.90,94.07,192
+"Chain I, Histone H2A [Xenopus laevis]",Xenopus laevis,6W5I_I,132,191,8.00E-64,0.90,94.02,191
+Structure of the 4_601_167 Tetranucleosome [Xenopus laevis],Xenopus laevis,1ZBB_C,129,191,8.00E-64,0.90,94.02,191
+The effect of H3 K79 dimethylation and H4 K20 trimethylation on nucleosome and chromatin structure [Xenopus laevis],Xenopus laevis,3C1B_C,129,191,8.00E-64,0.90,94.02,191
+"Chain C, Histone H2A [Xenopus laevis]",Xenopus laevis,7E8I_C,129,191,9.00E-64,0.90,94.02,191
+Solution structure of the isolated histone H2A-H2B heterodimer [Homo sapiens],Homo sapiens,2RVQ_C,133,191,9.00E-64,0.90,94.07,191
+Ligand Binding Alters The Structure And Dynamics Of Nucleosomal Dna [Xenopus laevis],Xenopus laevis,1M18_C,129,191,1.00E-63,0.90,94.02,191
+2.9 Angstrom X-ray structure of hybrid macroH2A nucleosomes [Mus musculus],Mus musculus,2F8N_K,149,191,1.00E-63,0.90,94.07,191
+"Chain O, Histone H2A type 1 [Homo sapiens]",Homo sapiens,6FML_O,129,191,1.00E-63,0.90,94.87,191
+Structure of two molecules of the chromatin remodelling enzyme Chd1 bound to a nucleosome [Xenopus laevis],Xenopus laevis,6G0L_C,130,191,1.00E-63,0.90,93.22,191
+Class 1 : CENP-A nucleosome [Homo sapiens],Homo sapiens,6SE0_C,129,191,1.00E-63,0.90,94.87,191
+"Chain N, Histone H2A type 2-A [Homo sapiens]",Homo sapiens,7JZV_N,133,191,1.00E-63,0.90,94.87,191
+CryoEM Structure of cGAS Nucleosome complex [Homo sapiens],Homo sapiens,7A08_b,129,191,1.00E-63,0.90,95.73,191
+"Crystal structure of nucleosome particle in the presence of human testis-specific histone variant, hTh2b [Homo sapiens]",Homo sapiens,5GT3_C,129,190,2.00E-63,0.90,94.02,190
+"Chain L, Histone H2A [Homo sapiens]",Homo sapiens,7BG9_L,130,190,2.00E-63,0.90,94.07,190
+Molecular Recognition of the Nucleosomal 'Supergroove' [Xenopus laevis],Xenopus laevis,1S32_C,119,189,4.00E-63,0.90,94.02,189
+Crystal structure of the nucleosome core particle [Homo sapiens],Homo sapiens,3X1S_C,129,189,5.00E-63,0.90,94.02,189
+"X-Ray Structure of the Nucleosome Core Particle, NCP146, at 2.0 A Resolution [Xenopus laevis]",Xenopus laevis,1KX3_C,128,189,8.00E-63,0.90,94.02,189
+X-ray Structure of the H2A-N38C Nucleosome Core Particle [Xenopus laevis],Xenopus laevis,5OMX_C,129,188,1.00E-62,0.90,93.16,188
+Crystal structure of the human nucleosome phased with 12 selenium atoms [Homo sapiens],Homo sapiens,6JR0_C,133,187,2.00E-62,0.90,93.16,187
+"Chain C, Xenopus laevis-like histone H2A [Expression vector pET3-H2A]",Expression vector pET3-H2A,1ZLA_C,129,187,3.00E-62,0.90,92.31,187
+cryo-EM structure of DOT1L bound to H2B ubiquitinated nucleosome [Xenopus laevis],Xenopus laevis,6JMA_C,116,187,3.00E-62,0.73,97.89,187
+Structure of Snf2-MMTV-A nucleosome complex at shl2 in ADP state [Xenopus laevis],Xenopus laevis,6IY2_C,113,186,8.00E-62,0.73,97.89,186
+"Structure of LSD2/NPAC-linker/nucleosome core particle complex: Class 1, free nuclesome [Xenopus laevis]",Xenopus laevis,6R1T_C,111,186,9.00E-62,0.73,97.89,186
+Structure of human cGAS (K394E) bound to the nucleosome (focused refinement of cGAS-NCP subcomplex) [Homo sapiens],Homo sapiens,6Y5E_G,108,185,9.00E-62,0.73,96.84,185
+Structure of human cGAS (K394E) bound to the nucleosome (focused refinement of cGAS-NCP subcomplex) [Homo sapiens],Homo sapiens,6Y5E_C,107,185,1.00E-61,0.73,96.84,185
+Crystal Structure of Human Nucleosome Core Particle lacking H2A N-terminal region [Homo sapiens],Homo sapiens,3W96_C,124,186,1.00E-61,0.73,96.84,186
+Class 1 : canonical nucleosome [Xenopus laevis],Xenopus laevis,6FQ5_C,110,185,1.00E-61,0.73,97.89,185
+Crystal structure of the human nucleosome phased with 16 selenium atoms [Homo sapiens],Homo sapiens,6JR1_C,133,186,1.00E-61,0.90,92.31,186
+"Chain C, Histone H2A type 1-B/E [Homo sapiens]",Homo sapiens,7LYA_C,119,185,1.00E-61,0.73,96.84,185
+"Chain C, Histone H2A [Xenopus laevis]",Xenopus laevis,3KWQ_C,107,185,1.00E-61,0.73,97.89,185
+Structural basis of COMPASS eCM recognition of an unmodified nucleosome [Xenopus laevis],Xenopus laevis,6UGM_C,107,185,1.00E-61,0.73,97.89,185
+Structure of the Nap1 H2A H2B complex [Xenopus laevis],Xenopus laevis,5G2E_C,107,184,2.00E-61,0.73,97.89,184
+"Complex Between Nucleosome Core Particle (H3,H4,H2a,H2b) And 146 Bp Long Dna Fragment [Xenopus laevis]",Xenopus laevis,1AOI_C,116,185,2.00E-61,0.73,97.89,185
+"Chain C, Histone H2A [Xenopus laevis]",Xenopus laevis,7EA5_C,105,184,2.00E-61,0.73,97.89,184
+Crystal structure of the PFV GAG CBS bound to a mononucleosome [Xenopus laevis],Xenopus laevis,5MLU_C,105,184,2.00E-61,0.73,97.89,184
+"Chain C, Histone H2A type 1-D [Homo sapiens]",Homo sapiens,7EA8_C,104,184,2.00E-61,0.73,96.84,184
+Human nucleosome core particle containing 145 bp of DNA [Homo sapiens],Homo sapiens,6IPU_C,107,184,2.00E-61,0.73,96.84,184
+"Chain C, Histone H2A [Homo sapiens]",Homo sapiens,7XCR_C,108,184,2.00E-61,0.73,96.84,184
+"Chain C, Histone H2A type 1-B/E [Homo sapiens]",Homo sapiens,7XD1_C,109,184,2.00E-61,0.73,96.84,184
+"Chain C, Histone H2A [Xenopus laevis]",Xenopus laevis,6Z6P_C,103,184,3.00E-61,0.73,97.89,184
+Nucleosome core particle cross-linked with a hetero-binuclear molecule possessing RAPTA and gold(I) 4-(diphenylphosphino)benzoic acid groups [Homo sapiens],Homo sapiens,6IQ4_C,106,184,3.00E-61,0.73,96.84,184
+Human nucleosome core particle with cohesive end DNA termini [Homo sapiens],Homo sapiens,6JXD_G,106,184,3.00E-61,0.73,96.84,184
+Human nucleosome core particle with cohesive end DNA termini [Homo sapiens],Homo sapiens,6JXD_C,107,184,3.00E-61,0.73,96.84,184
+The Human Telomeric Nucleosome Displays Distinct Structural and Dynamic Properties [Homo sapiens],Homo sapiens,6KE9_C,105,184,3.00E-61,0.73,96.84,184
+CENP-A nucleosome bound by two copies of CENP-C(CD) and one copy CENP-N(NT) [Homo sapiens],Homo sapiens,6MUO_C,105,184,3.00E-61,0.73,96.84,184
+Structure of the 1:1 cGAS-nucleosome complex [Homo sapiens],Homo sapiens,7CCQ_C,103,183,4.00E-61,0.73,96.84,183
+"Chain C, Ubiquitin-60S ribosomal protein L40,Histone H2A [Saccharomyces cerevisiae S288C]",Saccharomyces cerevisiae S288C,6NZO_C,221,187,5.00E-61,0.73,97.89,187
+Cryo-EM structure of nucleosome in complex with a single chain antibody fragment [Drosophila melanogaster],Drosophila melanogaster,6DZT_C,124,183,9.00E-61,0.73,93.68,183
+"Chain C, Histone H2A [Drosophila melanogaster]",Drosophila melanogaster,2NQB_C,123,183,1.00E-60,0.73,93.68,183
+Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5 [Drosophila melanogaster],Drosophila melanogaster,5WCU_C,104,182,1.00E-60,0.73,93.68,182
+Drosophila nucleosome core [Drosophila melanogaster],Drosophila melanogaster,2PYO_C,120,182,1.00E-60,0.73,93.68,182
+CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE [Drosophila melanogaster],Drosophila melanogaster,4X23_C,102,181,2.00E-60,0.73,93.68,181
+Crystal structure of the nucleosome containing a chimeric histone H3/CENP-A CATD [Homo sapiens],Homo sapiens,5Z23_C,167,183,4.00E-60,0.90,91.45,183
+Crystal structure of nucleosome core particle consisting of mouse testis specific histone variants H2aa and H2ba [Mus musculus],Mus musculus,3X1T_C,128,181,7.00E-60,0.73,92.63,181
+Crystal structure A of ceNAP1-H2A-H2B complex [Caenorhabditis elegans],Caenorhabditis elegans,6K00_D,207,182,3.00E-59,0.73,92.63,182
+Structure of a Yeast Centromeric Nucleosome at 2.7 Angstrom resolution [Kluyveromyces lactis NRRL Y-1140],Kluyveromyces lactis NRRL Y-1140,6UPH_C,145,176,2.00E-57,0.90,79.66,176
+"Histone Octamer (Chicken), Chromosomal Protein, Alpha Carbons Only [Gallus gallus]",Gallus gallus,1HIO_A,95,170,6.00E-56,0.66,97.7,170
+Crystal structure of N-terminal acetylated Sir3 BAH domain D205N mutant in complex with yeast nucleosome core particle [Saccharomyces cerevisiae S288C],Saccharomyces cerevisiae S288C,4KUD_C,132,170,2.00E-55,0.73,86.32,170
+SPT16-H2A-H2B FACT HISTONE Complex [Saccharomyces cerevisiae S288C],Saccharomyces cerevisiae S288C,4WNN_A,132,170,2.00E-55,0.73,86.32,170
+"Chain c, Histone H2A [Saccharomyces cerevisiae]",Saccharomyces cerevisiae,7ON1_c,134,169,3.00E-55,0.73,86.32,169
+Crystal structure of heterochromatin protein Sir3 in complex with a silenced yeast nucleosome [Saccharomyces cerevisiae S288C],Saccharomyces cerevisiae S288C,4JJN_C,131,169,3.00E-55,0.73,86.32,169
+Crystal Structure Of The Yeast Nucleosome Core Particle Reveals Fundamental Differences In Inter-Nucleosome Interactions [Saccharomyces cerevisiae],Saccharomyces cerevisiae,1ID3_C,131,169,3.00E-55,0.73,86.32,169
+Structure of inner kinetochore CCAN-Cenp-A complex [Saccharomyces cerevisiae S288C],Saccharomyces cerevisiae S288C,6QLD_g,105,168,5.00E-55,0.73,86.32,168
+histone chaperone Hif1 playing with histone H2A-H2B dimer [Saccharomyces cerevisiae S288C],Saccharomyces cerevisiae S288C,5BT1_C,143,169,5.00E-55,0.73,86.32,169
+"Chain C, Histone H2A [Xenopus laevis]",Xenopus laevis,7KBD_C,139,168,2.00E-54,0.90,75.42,168
+Structure of inner kinetochore CCAN-Cenp-A complex [Saccharomyces cerevisiae S288C],Saccharomyces cerevisiae S288C,6QLD_i,102,165,7.00E-54,0.72,86.17,165
+Role of the DEF/Y motif of Swc5 in histone H2A.Z deposition [Homo sapiens],Homo sapiens,6KBB_A,96,164,2.00E-53,0.64,96.43,164
+The crystal structure of a single chain H2B-H2A histone chimera from Xenopus laevis [Xenopus laevis],Xenopus laevis,6W4L_A,186,167,2.00E-53,0.63,100,167
+Crystal structure of xH2A-H2B [Xenopus laevis],Xenopus laevis,6K01_C,92,163,5.00E-53,0.63,98.8,163
+Fitting of the H2A-H2B histones in the electron microscopy map of the complex Nucleoplasmin:H2A-H2B histones (1:5) [Gallus gallus],Gallus gallus,2XQL_A,91,162,5.00E-53,0.63,97.59,162
+"Chain A, Histone H2B type 1-J,Histone H2A type 1-B/E [Homo sapiens]",Homo sapiens,5VEY_A,194,165,2.00E-52,0.63,96.39,165
+"Chain A, Histone H2B,Histone H2A [Saccharomyces cerevisiae RM11-1a]",Saccharomyces cerevisiae RM11-1a,7DLX_A,208,164,7.00E-52,0.68,85.39,164
+"Chain B, Histone H2A [Xenopus laevis]",Xenopus laevis,4KHA_B,92,157,1.00E-50,0.61,98.75,157
+A role for histone chaperone OsChz1 in histone recognition and deposition [Arabidopsis thaliana],Arabidopsis thaliana,6M2M_A,93,144,2.00E-45,0.62,85.19,144
+Structural mechanism directing nucleosome reorganization by NAP1-RELATED PROTEIN 1 (NRP1) [Arabidopsis thaliana],Arabidopsis thaliana,7BP2_A,93,144,2.00E-45,0.62,85.19,144
+"Chain C, H2A histone family [Homo sapiens]",Homo sapiens,1U35_C,120,132,1.00E-40,0.70,72.83,132
+2.6 A Crystal Structure Of A Nucleosome Core Particle Containing The Variant Histone H2a.Z [Homo sapiens],Homo sapiens,1F66_C,128,114,3.00E-33,0.72,62.11,114
+The nucleosome containing human H2A.Z.1 [Homo sapiens],Homo sapiens,3WA9_C,131,114,3.00E-33,0.72,62.11,114
+Crystal structure of a human Anp32e-H2A.Z-H2B complex [Homo sapiens],Homo sapiens,4CAY_A,111,113,3.00E-33,0.72,62.11,113
+Crystal structure of a human YL1-H2A.Z-H2B complex [Homo sapiens],Homo sapiens,5FUG_A,110,113,3.00E-33,0.72,62.11,113
+The nucleosome containing human H2A.Z.2 [Homo sapiens],Homo sapiens,3WAA_C,131,114,4.00E-33,0.72,62.11,114
